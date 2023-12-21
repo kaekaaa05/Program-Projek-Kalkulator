@@ -1,7 +1,8 @@
 # Program-Projek-Kalkulator
 # Kelompok 8
-<div> Nama Anggota Kelompok: - Muhammad FAiz Ilyas </div>
-</div>                       - Syifa Tri Agusriani </div>
-</div>                       - Afiqah </div>
-</div>                       - Eka Tanduklangi' </div>
+Nama Anggota Kelompok: 
+- Muhammad FAiz Ilyas 
+- Syifa Tri Agusriani 
+- Afiqah 
+- Eka Tanduklangi' 
 <div> Prodi: Sistem Informasi A </div>
