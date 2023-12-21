@@ -1,6 +1,6 @@
 # Program-Projek-Kalkulator
-Kelompok 8
-</div>Nama Anggota Kelompok: 
+Kelompok 8 
+Nama Anggota Kelompok: 
 </div>
 - Muhammad Faiz Ilyas
 - Syifa Tri Agusriani 
