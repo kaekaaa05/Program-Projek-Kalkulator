@@ -1,4 +1,4 @@
-# Program-Projek-Kalkulator
+# Program-Project-Kalkulator
 Kelompok 8 
 Nama Anggota Kelompok: 
 - Muhammad Faiz Ilyas
